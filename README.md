@@ -1,4 +1,4 @@
-# Fractals-Processing
+# Fractals Processing
 A small collection of fractals in Processing, made for fun some years ago.
 
 
